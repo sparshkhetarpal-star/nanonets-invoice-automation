@@ -76,35 +76,35 @@ nanonets-invoice-processing/
 ### 1. Model Setup / Input Interface
 
 ![Question 1](https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_1.png)
-🔗 https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_1.png
+
 
 ---
 
 ### 2. Data Extraction Output
 
 ![Question 2](https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_2.png)
-🔗 https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_2.png
+
 
 ---
 
 ### 3. Field Detection / Training View
 
 ![Question 3](https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_3.png)
-🔗 https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_3.png
+
 
 ---
 
 ### 4. Processed Invoice Results
 
 ![Question 4](https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_4.png)
-🔗 https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_4.png
+
 
 ---
 
 ### 5. Final Structured Data Output
 
 ![Question 5](https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_5.png)
-🔗 https://raw.githubusercontent.com/sparshkhetarpal-star/nanonets-invoice-automation/main/question_5.png
+
 
 
 ---
